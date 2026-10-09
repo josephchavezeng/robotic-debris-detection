@@ -2,6 +2,10 @@
 
 A Python-based computer vision pipeline integrating a fine-tuned ResNet-50 convolutional neural network (CNN) with a simulated robotic inspection system for identifying solid debris in indoor environments.
 
+## Project Demo
+
+[View Robotic Debris Detection Demo (PDF)](debris_robot_demo.pdf)
+
 ## Project Overview
 
 This project demonstrates how computer vision and machine learning can support autonomous robotic inspection and decision-making. The pipeline consists of four stages:
