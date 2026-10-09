@@ -1,0 +1,23 @@
+{
+  "test_images": 168,
+  "threshold": 0.5,
+  "accuracy": 0.8988095238095238,
+  "precision_solid_debris": 0.8941176470588236,
+  "recall_solid_debris": 0.9047619047619048,
+  "f1_solid_debris": 0.8994082840236687,
+  "auroc": 0.9581916099773242,
+  "confusion_matrix_labels": [
+    "no_solid_debris",
+    "solid_debris"
+  ],
+  "confusion_matrix": [
+    [
+      75,
+      9
+    ],
+    [
+      8,
+      76
+    ]
+  ]
+}
